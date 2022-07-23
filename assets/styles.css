@@ -1,0 +1,11 @@
+body
+{ margin-top: 10rem;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.footer {
+    background-color: rgb(20, 95, 161);
+}
