@@ -76,7 +76,7 @@
                     <img src="Image/image10.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">OBJETIVO</h5>
-                        <p class="card-text">ayudar a nuestros clientes a gestionar, planificar,
+                        <p class="card-text">Ayudar a nuestros clientes a gestionar, planificar,
                             medir y controlar el flujo diario de sus envíos</p>
                         <a href="#" class="btn btn-primary">Mensajería y Paquetería Local / Nacional</a>
                     </div>
@@ -95,7 +95,7 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="card">
-                    <img src="Image/image3.jpg" class="card-img-top" alt="...">
+                    <img src="Image/image10.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">VISIÓN</h5>
                         <p class="card-text">Ser un operador logístico de
