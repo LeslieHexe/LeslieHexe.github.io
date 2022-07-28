@@ -56,7 +56,7 @@
     <img src="Image/image4.jpg" class="card-img-top" alt="...">
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-5">MENSAJERÍA Y PAQUETERÍA LOCAL, NACIONAL E INTERNACIONAL</h1>
+            <h1 class="display-5">MENSAJERIA Y PAQUETERÍA LOCAL, NACIONAL E INTERNACIONAL</h1>
             <p> Administramos, gestionamos, controlamos y medimos el flujo de tus envíos.</p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">CONOCE MÁS »</a></p>
         </div>
