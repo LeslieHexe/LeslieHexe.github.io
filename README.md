@@ -95,7 +95,7 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="card">
-                    <img src="Image/image.jpg" class="card-img-top" alt="...">
+                    <img src="Image/image9.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">VISIÓN</h5>
                         <p class="card-text">Ser un operador logístico de
