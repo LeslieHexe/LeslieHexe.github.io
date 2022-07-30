@@ -53,10 +53,10 @@
             </div>
         </nav>
     </header>
-    <img src="/LeslieHexe.github.io/Image/image4.jpg" class="card-img-top" alt="...">
+    <img src="Image/image4.jpg" class="card-img-top" alt="...">
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-5">MENSAJERÍA Y PAQUETERÍA LOCAL, NACIONAL E INTERNACIONAL</h1>
+            <h1 class="display-5"> MENSAJERÍA Y PAQUETERÍA LOCAL, NACIONAL E INTERNACIONAL</h1>
             <p> Administramos, gestionamos, controlamos y medimos el flujo de tus envíos.</p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">CONOCE MÁS »</a></p>
         </div>
@@ -73,10 +73,10 @@
         <div class="row mb-5">
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="card">
-                    <img src="/LeslieHexe.github.io/Image/image1.jpg" class="card-img-top" alt="...">
+                    <img src="Image/image9.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">OBJETIVO</h5>
-                        <p class="card-text">ayudar a nuestros clientes a gestionar, planificar,
+                        <p class="card-text">Ayudar a nuestros clientes a gestionar, planificar,
                             medir y controlar el flujo diario de sus envíos</p>
                         <a href="#" class="btn btn-primary">Mensajería y Paquetería Local / Nacional</a>
                     </div>
@@ -84,7 +84,7 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="card">
-                    <img src="/LeslieHexe.github.io/Image/image2.jpg" class="card-img-top" alt="...">
+                    <img src="Image/image2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">MISIÓN</h5>
                         <p class="card-text">Generar valores agregados y desarrollo continuo en tecnologías
@@ -95,7 +95,7 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="card">
-                    <img src="/LeslieHexe.github.io/Image/image3.jpg" class="card-img-top" alt="...">
+                    <img src="Image/image10.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">VISIÓN</h5>
                         <p class="card-text">Ser un operador logístico de
@@ -106,7 +106,7 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="card">
-                    <img src="/LeslieHexe.github.io/Image/image5.jpg" class="card-img-top" alt="...">
+                    <img src="Image/image5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">EMPRESA 100% MEXICANA</h5>
                         <p class="card-text">Disfruta de nuestros
